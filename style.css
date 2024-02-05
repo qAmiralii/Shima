@@ -18,3 +18,9 @@ td{
 p{
    color: tomato;
 }
+div{
+    display: inline;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 70px;
+}
