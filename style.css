@@ -22,5 +22,7 @@ div{
     display: inline;
     margin-top: 50px;
     text-align: center;
-    margin-left: 70px;
+    margin-left: 60px;
+    padding: 9px;
+    border-radius: 5px;
 }
