@@ -1,14 +1,29 @@
+.td{
+    
+    height: 50%;
+    
+}
+.indiv
+{
+    height: 0%;
+    margin-left: 20px;
+    display: inline;
+}
 .db{
-
+ 
+ display: inline-block;
+ width: 100%;
+ height: 100px;
+ margin: 0px;
+}
+.dd{
+    background-color: aqua;
+    height: 50%;
 }
 p{
    color: tomato;
 }
-div{
+.indivd{
     display: inline;
-    margin-top: 50px;
-    text-align: center;
-    margin-left: 60px;
-    padding: 9px;
-    border-radius: 5px;
+    margin: 10px 20px 10px 20px;
 }
