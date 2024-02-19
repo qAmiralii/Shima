@@ -19,6 +19,7 @@
 .dd{
     background-color: aqua;
     height: 50%;
+    
 }
 p{
    color: tomato;
@@ -26,4 +27,8 @@ p{
 .indivd{
     display: inline;
     margin: 10px 20px 10px 20px;
+}
+.inindiv{
+    display: inline;
+    padding-left: 20px;
 }
