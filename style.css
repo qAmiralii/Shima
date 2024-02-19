@@ -1,19 +1,5 @@
-table{
-    padding-left: 170px;
-    width: 100%;
-    padding-right: 180px;
+.db{
 
-}
-th{
-    height: 20px;
-    border-radius: 20px;
-   
-}
-td{
-    
-    
-    margin: auto;
-    margin-left: auto;
 }
 p{
    color: tomato;
